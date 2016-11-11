@@ -1,8 +1,9 @@
+##ATH! VERKEFNIÐ ER Í VINNSLU!
 #GitHub einstaklingsverkefni
-
-##ATH! <span style="color:red">VERKEFNIÐ ER Í VINNSLU!</span>
-
-1. Goggaðu (<i>e. fork</i>) í þessa geymslu (<i>e. Repository</i>) á þinn GitHub reikning.
+<ol>
+ <li>Skoðaðu vinnuferli þessarar geymslu </li>
+ <li>Goggaðu (<i>e. fork</i>) í þessa geymslu (<i>e. Repository</i>) á þinn GitHub reikning.</li>
+</ol>
 
 ##Greinar og samruni - Branching and Merging
 
