@@ -17,7 +17,7 @@
 		<ul>
 			<li><b>3% Git_verkefni.</b> Vinnusvæði vaktað með Github útgáfustjórnun og verkefnið 
 				leyst samkvæmt verklýsingu.</li>
-			<li><b>3% Github_verkefni</b> afritað með goggunaraðferðinni „Fork Repository“ af https://github.com/VSH24/		github_verkefni  á eigin GitHub reikning (GitHub Account) 
+			<li><b>3% Github_verkefni</b> afritað með goggunaraðferðinni „Fork Repository“ af https://github.com/VSH24/github_verkefni  á eigin GitHub reikning (GitHub Account) 
 			<br>Geymlsan (repository) er sett á local vinnusvæði með „Git clone“ í Git Bash og verkefnið 
 				leyst samkvæmt verklýsingu sem fylgir með geymslunni.</li>
 		</ul>
