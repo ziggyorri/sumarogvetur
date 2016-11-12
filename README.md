@@ -8,3 +8,19 @@
  <li>Farðu eftir verklýsingunni í skjalinu <i>"github_greinar-samruni.docx</i> við að leysa verkefnið</li>
  <li>Í skjalinu <i> "github_verkefni-glosur.docx </i> er hægt að sjá vinnuferlið við að stofna þessa geymslu</li>
 </ol>
+
+Námsmat:
+###GIT spurningar (2%) 
+	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum
+###GIT útgáfustýring (6%) 
+<ol><li>	3% Git_verkefni Vinnusvæði vaktað með Github útgáfustjórnun og verkefnið 
+leyst samkvæmt verklýsingu.</li>
+	<li>	3% Github_verkefni afritað með goggunaraðferðinni „Fork Repository“ af https://github.com/VSH24/github_verkefni  á eigin GitHub reikning (GitHub Account)
+Geymlsan (repository) er sett á local vinnusvæði með „Git clone“ í Git Bash og verkefnið 
+leyst samkvæmt verklýsingu sem fylgir með geymslunni.</li>
+</ol>
+
+####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
+
+####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með hópverkefnið. 
+
