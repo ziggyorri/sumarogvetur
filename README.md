@@ -1,4 +1,6 @@
-#GitHub einstaklingsverkefni 2vers
+
+#GitHub einstaklingsverkefni 
+
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -11,7 +13,7 @@
 
 ##Námsmat:
 <ol>
-	<li>GIT spurningar (2%) trallalalal<br>
+	<li>GIT spurningar (2%)<br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
 	<li>GIT útgáfustýring (6%) 
 		<ul>
@@ -24,5 +26,5 @@
 
 ####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
 
-####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með hópverkefnið. 
+####Verkefnaskil á Innu:  ha?. 
 
