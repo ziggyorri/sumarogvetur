@@ -1,4 +1,4 @@
-#GitHub einstaklingsverkefni
+#GitHub einstaklingsverkefni 2vers
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -11,7 +11,7 @@
 
 ##Námsmat:
 <ol>
-	<li>GIT spurningar (2%) <br>
+	<li>GIT spurningar (2%) trallalalal<br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
 	<li>GIT útgáfustýring (6%) 
 		<ul>
