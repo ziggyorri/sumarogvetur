@@ -1,7 +1,8 @@
 
 #GitHub einstaklingsverkefni 
 
-##Greinar og samruni - Branching and Merging og Krass
+##Greinar og samruni - Branching and Merging
+
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
  	<i> https://github.com/VSH24/github_verkefni/commits/master </i>
@@ -26,5 +27,9 @@
 
 ####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
 
+<<<<<<< HEAD
 ####Verkefnaskil á Innu:  Tenglar á ÖLL verkefnin. 
+=======
+####Verkefnaskil á Innu:  Þetta þarf að lagfæra, hvað gerðist hér?. 
+>>>>>>> 0ae42351135cdd6ee67ed2eab15fc097b8231d75
 
