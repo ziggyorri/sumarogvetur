@@ -1,7 +1,7 @@
 
 #GitHub einstaklingsverkefni 
 
-##Greinar og samruni - Branching and Merging krass 
+##Greinar og samruni - Branching and Merging krass
 
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -27,6 +27,6 @@
 
 ####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
 
-####Verkefnaskil á Innu:  Tenglar á ykkar geymslur á GitHub. 
+####Verkefnaskil á Innu:  Tenglar á ÖLL verkefnin. 
 
 
