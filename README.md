@@ -26,5 +26,5 @@
 
 ####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
 
-####Verkefnaskil á Innu:  ha?. 
+####Verkefnaskil á Innu:  Allir tenglar eiga vera á verkefnin. 
 
